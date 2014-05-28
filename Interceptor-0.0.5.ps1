@@ -1,12 +1,12 @@
 # Interceptor Proof of Concept
 # Created By Casey Smith
-# 04-28-2014
-# 0.0.4
+# 05-28-2014
+# 0.0.5
 # Rewrite Sockets and Streams
 # Proof of Concept 
 # TODO
 # 
-
+#
 
 function createCertificate([string] $certSubject, [bool] $isCA)
 {
